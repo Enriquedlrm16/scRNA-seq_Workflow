@@ -2,6 +2,7 @@ scRNA\_workflow
 ================
 Enrique de la Rosa Morón
 20/10/2023
+**This script is also part of my Shiny-app which currently is private due to confidential issues.** 
 
 # Abstract
 
